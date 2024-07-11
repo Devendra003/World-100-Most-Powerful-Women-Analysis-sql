@@ -7,9 +7,13 @@ This project involved extensive data collection, cleaning, and analysis to ident
 Key features and methodologies used in the project include:
 
 1.Data Collection: Sourcing data from various credible sources, including industry reports, articles, and professional databases.
+
 2.Data Cleaning and Preparation: Using advanced SQL techniques to clean and preprocess the data, ensuring accuracy and consistency.
+
 3.Criteria Development: Establishing clear and objective criteria to evaluate and rank the women based on their achievements, influence, and impact in the SQL community.
+
 4.Data Analysis: Conducting in-depth analysis to extract meaningful insights and trends, utilizing complex SQL queries and functions.
+
 5.Reporting: Compiling a detailed report summarizing the analysis, highlighting key figures, and providing an overview of each influential woman's contributions.
 
 Technologies Used:
